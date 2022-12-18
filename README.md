@@ -1,4 +1,4 @@
-# Card-AI-ARFoundation
+# Carnet-AI-ARFoundation
 <hr>
 Game link: TBA
 <hr>
