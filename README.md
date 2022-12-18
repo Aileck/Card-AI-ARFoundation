@@ -8,7 +8,7 @@ Assert Directory for the project: UPC Másters' course -> SGI-AR ARFoundation pr
 
 Base task:
 <ul>
-<li>1. Make a basic AR project with any AR develpment tool (Unity + ARFoundation in this case).</li>
+<li>1. Make a basic AR project with a AR develpment tool (Unity + ARFoundation in this case).</li>
 <li>2. Players can select and interact.</li>
 </ul>
 
