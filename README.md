@@ -30,3 +30,6 @@ Credits:
 <p>PD: I can't upload my student card due to privacy issues, so I changed to scan poker. Anyway, no one will actually try this project, right?</p>
 
 
+<h3>External Assets</h3>
+https://assetstore.unity.com/packages/tools/integration/yamldotnet-for-unity-36292 <br>
+https://assetstore.unity.com/packages/tools/input-management/better-streaming-assets-103788 <br>
