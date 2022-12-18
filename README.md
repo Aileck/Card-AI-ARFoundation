@@ -4,7 +4,7 @@ Game link: TBA
 <hr>
 Unity 2021.3.15f1
 
-Directory for the project: UPC Másters' course -> SGI-AR ARFoundation project.
+Assert Directory for the project: UPC Másters' course -> SGI-AR ARFoundation project.
 
 Base task:
 <ul>
