@@ -26,5 +26,7 @@ Credits:
 </ul>
 
 <h3>Description</h3>
-<p>Scan the UPC student card with your mobile phone to view the class schedule and school map. There are multiple language options for students from all over the world to use. </p>
+<p>Scanning (my XD) UPC student card with your mobile phone to view the class schedule and school map. There are multiple language options for students from all over the world to use. </p>
 <p>PD: I can't upload my student card due to privacy issues, so I changed to scan poker. Anyway, no one will actually try this project, right?</p>
+
+
