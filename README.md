@@ -15,6 +15,7 @@ Base task:
 My Extension:
 <ul>
 <li>1. Internationalization and localization system (i18n) a real time, reinventing the wheel ;) </li>
+<li>2. Real class schedule system (course information and calculation of current class and next class based on current time)</li>
 </ul>
 
 <h1>Card-AI</h1>
