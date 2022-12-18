@@ -14,7 +14,7 @@ Base task:
 
 My Extension:
 <ul>
-<li>1. Internationalization and localization system (i18n) a real time, reinventing the wheel ;) </li>
+<li>1. Internationalization and localization system (i18n) in real time, reinventing the wheel ;) </li>
 <li>2. Real class schedule system (course information and calculation of current class and next class based on current time)</li>
 </ul>
 
@@ -29,7 +29,7 @@ Credits:
 <h3>Description</h3>
 <p>Scanning (my XD) UPC student card with your mobile phone to view the class schedule and school map. There are multiple language options for students from all over the world to use. </p>
 <p>PD: I can't upload my student card due to privacy issues, so I changed to scan poker. Anyway, no one will actually try this project, right?</p>
-<p>PDD: A.I. corresponds two featured system AR and Internationalization.</p>
+<p>PDD: A.I. corresponds features AR and Internationalization.</p>
 
 
 <h3>External Assets</h3>
