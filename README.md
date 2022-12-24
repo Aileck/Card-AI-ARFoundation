@@ -35,7 +35,8 @@ Credits:
 <table>
   <tr>
      <td><b>Tergets</b></td>
-    <td!>[Poker-sm-243-Qc](https://user-images.githubusercontent.com/61742408/209435904-bb4e98c2-27fd-41e6-ab3d-8f397cc48797.png)</td>
+    <td>![Poker-sm-244-Jc](https://user-images.githubusercontent.com/61742408/209436013-c66d4c6b-7ddf-4113-8d60-08107a6fbb00.png)
+</td>
 
   </tr>
   
