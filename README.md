@@ -1,6 +1,6 @@
 # Carnet-AI-ARFoundation
 <hr>
-Game link: TBA
+Game link: https://aileck.itch.io/carnetai
 <hr>
 Unity 2021.3.15f1
 
