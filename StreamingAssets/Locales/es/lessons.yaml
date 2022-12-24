@@ -1,0 +1,25 @@
+lesson-name: Asignatura
+teacher-name: Profesor/a
+time: Horario
+place: Aula
+
+event: acontecimiento
+event-if-void: Ningún acontecimiento por el momento
+
+until: Siguiente clase
+
+NULL: Hoy ya no hay clases
+ACAP: Arquitectura de ordenadores de alto rendimiento
+ARCA: Animación Realista de Cuerpos Articulados
+SEU: Sistemas Empotrados y Ubicus
+MEEGQ: EL MODELO DE GESTIÓN DE LA EXCELENCIA Y LA CALIDAD EFQM
+SGI: sistemas de gráficos interactivos
+CSI: COMPUTACIÓN Y SISTEMAS INTELIGENTES
+TMD: Técnica de Minería de Datos
+PEGTI: PLAN ESTRATÉGICO Y GOBERNANZA DE LAS TECNOLOGÍAS DE LA INFORMACIÓN
+
+MON: Lunes
+TUE: Martes
+WED: Miércoles
+THU: jueves
+FRI: viernes

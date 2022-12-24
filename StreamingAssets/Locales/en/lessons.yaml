@@ -1,0 +1,25 @@
+lesson-name: Lesson
+teacher-name: Teacher
+time: Time
+place: Place
+
+event: event
+event-if-void: No event for the moment
+
+until: Next lesson
+
+NULL: No more classes for today
+ACAP: High Performance Computer Architecture
+ARCA: Realistic Animation of Articulated Bodies
+SEU: Embedded and Ubicus Systems
+MEEGQ: THE EXCELLENCE AND QUALITY MANAGEMENT MODEL
+SGI: Interactive graphics systems
+CSI: COMPUTING AND INTELLIGENT SYSTEMS
+TMD: Data Mining Technique
+PEGTI: STRATEGIC PLAN AND GOVERNANCE OF INFORMATION TECHNOLOGIES
+
+MON: Monday
+TUE: Tuesday
+WED: Wednesday
+THU: Thursday
+FRI: Friday

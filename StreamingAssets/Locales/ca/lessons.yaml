@@ -1,0 +1,25 @@
+lesson-name: Assignatura
+teacher-name: Professor/a
+time: Horari
+place: Aula
+
+event: Esdeveniments
+event-if-void: No hi ha esdeveniments de moment
+
+until: Següent classe
+
+NULL: Avui no hi ha més clase
+ARCA: Arquitectura de Computadors d'Altes Prestacions
+ACAP: Animació Realista de Cossos Articulats
+SEU: Sistemes Encastats i Ubicus
+MEEGQ: EL MODEL D'EXCEL·LÈNCIA EFQM I GESTIÓ DE LA QUALITAT
+SGI: Sistemes Gràfics Interactius
+CSI: COMPUTACIÓ I SISTEMES INTEL·LIGENTS
+TMD: Sistemes Gràfics Interactius
+PEGTI: PLA ESTRATÈGIC I GOVERN DE LES TECNOLOGIES DE LA INFORMACIÓ
+
+MON: Dilluns
+TUE: Dimarts
+WED: Dimecres
+THU: Dijous
+FRI: Divendres
