@@ -32,7 +32,16 @@ Credits:
 <p>PD: I can't upload my student card due to privacy issues, so I changed to scan poker. Anyway, no one will actually try this project, right?</p>
 <p>PDD: A.I. corresponds features AR and Internationalization.</p>
 
-
+<table>
+  <tr>
+     <td><b>Tergets</b></td>
+    <td![Poker-sm-243-Qc](https://user-images.githubusercontent.com/61742408/209435904-bb4e98c2-27fd-41e6-ab3d-8f397cc48797.png)</td>
+    <td<img width="300" src="https://user-images.githubusercontent.com/61742408/209435816-f6a8be9a-546b-4e4a-abeb-b49a028e3e73.png"></td>
+  </tr>
+  
+</table>
 <h3>External Assets</h3>
 https://assetstore.unity.com/packages/tools/integration/yamldotnet-for-unity-36292 <br>
 https://assetstore.unity.com/packages/tools/input-management/better-streaming-assets-103788 <br>
+
+
