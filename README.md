@@ -44,8 +44,8 @@ Credits:
         <td> <img src="https://user-images.githubusercontent.com/61742408/209436248-7c135f73-c791-4a25-967f-b7720b882fa2.png"> </td>
      </tr>
        <td><b>Usage</b></td>
-        <td> "Student card's front" - Schedule</td>
-        <td> "Student card's back" - UPC Map</td>
+        <td  align=center> "Student card's front" - Schedule</td>
+        <td  align=center> "Student card's back" - UPC Map</td>
      </tr>
   
 </table>
