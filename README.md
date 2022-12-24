@@ -34,16 +34,16 @@ Credits:
 
 <table>
   <tr>
-     <td ><b>Tergets</b></td>
+     <td  align=center><b>Tergets</b></td>
         <td align=center><img  src="https://user-images.githubusercontent.com/61742408/209436013-c66d4c6b-7ddf-4113-8d60-08107a6fbb00.png"> </td>
         <td align=center> <img src="https://user-images.githubusercontent.com/61742408/209436083-fa43be7c-03a5-4ba0-9517-d241490b84de.png"> </td>
      </tr>
     <tr>
-     <td><b>AR Object</b></td>
+     <td  align=center><b>AR Object</b></td>
         <td> <img src="https://user-images.githubusercontent.com/61742408/209436233-d56d3ae6-faea-47f8-bb1f-36bf035e4486.png"> </td>
         <td> <img src="https://user-images.githubusercontent.com/61742408/209436248-7c135f73-c791-4a25-967f-b7720b882fa2.png"> </td>
      </tr>
-       <td><b>Usage</b></td>
+       <td  align=center><b>Usage</b></td>
         <td  align=center> "Student card's front" - Schedule</td>
         <td  align=center> "Student card's back" - UPC Map</td>
      </tr>
