@@ -1,5 +1,3 @@
-<img width="745" alt="2022-12-24_02-02" src="https://user-images.githubusercontent.com/61742408/209434722-75d8835e-844c-4d7d-aa85-25f16fabb827.png">
-<img width="745" alt="2022-12-24_02-02" src="https://user-images.githubusercontent.com/61742408/209434739-df75918d-7de2-47cf-973b-d500dcf43d69.png">
 # Carnet-AI-ARFoundation
 <hr>
 Game link: TBA
@@ -29,6 +27,7 @@ Credits:
 </ul>
 
 <h3>Description</h3>
+  <img width="745" alt="2022-12-24_02-02" src="https://user-images.githubusercontent.com/61742408/209434739-df75918d-7de2-47cf-973b-d500dcf43d69.png">
 <p>Scanning (my XD) UPC student card with your mobile phone to view the class schedule and school map. There are multiple language options for students from all over the world to use. </p>
 <p>PD: I can't upload my student card due to privacy issues, so I changed to scan poker. Anyway, no one will actually try this project, right?</p>
 <p>PDD: A.I. corresponds features AR and Internationalization.</p>
