@@ -23,7 +23,6 @@ My Extension:
 Credits:
 <ul>
 <li>Xinyu Jiang (xinyu.jiang@estudiantat.upc.edu) .</li>
-<li>Haoyu Li (haoyu.li@estudiantat.upc.edu) .</li>
 </ul>
 
 <h3>Description</h3>
